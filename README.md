@@ -1,0 +1,1 @@
+This repository is step by step from this video: [RSpec](https://www.youtube.com/watch?v=10OJPX0A85w&list=PLRRV_FQMoM_t11xUmdz9YRra7HOgaYQT1&ab_channel=ConnerJensen), open that link if you want to know more.
